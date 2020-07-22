@@ -43,6 +43,8 @@ The following options are available.
 | **-s,--source** |   Find the application using the specified [source](source.md). |
 | **-e,--exact**     | Find the application using exact match. |
 | **--versions**    | Show available versions of the application. |
+| **--homepage**  | If the Homepage Url exists it will be opened in your default browser. |
+| **--license**   | If the License Url exists it will be opened in your default browser. |
 
 ## Multiple selections
 
