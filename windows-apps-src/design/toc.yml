@@ -104,6 +104,8 @@
           href: controls-and-patterns/listview-and-gridview.md
         - name: Flip view
           href: controls-and-patterns/flipview.md
+        - name: PipsPager
+          href: controls-and-patterns/pipspager.md
         - name: Tree view
           href: controls-and-patterns/tree-view.md
         - name: ItemsRepeater
@@ -150,6 +152,8 @@
       href: controls-and-patterns/forms.md
     - name: Media, graphics, and shapes
       items:
+        - name: Animated icons
+          href: controls-and-patterns/animated-icon.md
         - name: Images and image brushes
           href: controls-and-patterns/images-imagebrushes.md
         - name: Ink
@@ -164,11 +168,13 @@
           href: controls-and-patterns/web-view.md
     - name: Menus and toolbars
       items:
-        - name: App bar and command bar
+        - name: Menus and context menus
+          href: controls-and-patterns/menus-and-context-menus.md
+        - name: Command bar and app bar
           href: controls-and-patterns/app-bars.md
         - name: Command bar flyout
           href: controls-and-patterns/command-bar-flyout.md
-        - name: Menus and context menus
+        - name: Menu flyout and menu bar
           href: controls-and-patterns/menus.md
     - name: Navigation
       items:
